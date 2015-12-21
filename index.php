@@ -8,6 +8,7 @@
 <body>
 	<?php 
 		echo "Hello Git !!!";
+		echo "Hello Git2 !!!";
 	 ?>
 </body>
 </html>
