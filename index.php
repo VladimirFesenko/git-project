@@ -10,6 +10,8 @@
 		echo "Hello Git !!!";
 		echo "Hello Git2 !!!";
 		echo "Notepad+++++++++";
+
+		echo "new_f2";
 	 ?>
 </body>
 </html>
