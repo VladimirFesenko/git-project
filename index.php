@@ -12,6 +12,8 @@
 		echo "Notepad+++++++++";
 
 		echo "new_f2";
+
+		echo "add master";
 	 ?>
 </body>
 </html>
